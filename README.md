@@ -10,7 +10,7 @@ This repo was created as an educational project for building "One App" only (bac
 
 - Check the Ruby version or if you have at all by running `ruby -v` if you get something like this `ruby 2.6.8p205 (2021-07-07 revision 67951)` you have Ruby installed.
 - Clone the repository by runiing `git clone https://github.com/VitorGuedesMadeira/Hello-Rails-React.git` in your CLI.
-- `cd Budget-App`
+- `cd Hello-Rails-React`
 - Run `bundle install`
 - Run `rails db:create db:migrate db:seed`
 - Run `./bin/dev` for the local server
