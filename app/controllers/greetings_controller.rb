@@ -1,6 +1,5 @@
 class GreetingsController < ApplicationController
   def random
-    single_greeting = Greeting.all.sample
-    render json: single_greeting
+    render json: Greeting.all.sample
   end
 end
